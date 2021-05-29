@@ -2,6 +2,6 @@
 
 Programming languages used:-
 
-HTML
-CSS
+HTML <br>
+CSS <br>
 JS
